@@ -1,0 +1,42 @@
+body{
+    font-family: Arial;
+    font-size: 20px;
+}
+
+h2{
+    margin: 20px;
+    text-shadow: 3px 3px 5px rgb(155, 155, 155);
+}
+form{    
+    text-shadow: 3px 3px 5px rgb(155, 155, 155);
+    box-shadow: 1px 5px 4px 5px rgb(155, 155, 155);
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+}
+
+input{
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid rgb(155, 155, 155);
+    box-shadow: 2px 2px 2px 2px rgb(221, 221, 221);
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+}
+
+button {
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    width: 30px;
+    height: 30px;
+    border: 1px solid rgb(155, 155, 155);
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(221, 221, 221) ;
+}
