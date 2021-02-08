@@ -1,0 +1,25 @@
+body{
+    font-family: Arial;
+}
+
+#main{
+    margin: auto;
+    width: 650px;
+    text-align: center;
+}
+
+#meio{
+    margin: auto;
+    text-align: left;
+    width: 170px;
+}
+
+button{
+    width: 80px;
+    height: 25px;
+}
+
+#resp{
+    background-color: lightseagreen;
+    width: 1300px;
+}

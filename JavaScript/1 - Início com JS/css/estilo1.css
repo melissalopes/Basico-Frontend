@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+}
+
+table{
+    line-height: 30px;
+    color: #CCCCCC;
+}
+
+th{
+    width: 100px;
+    text-align: center;
+    background-color: #000033;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+td{
+    width: 100px;
+    text-align: center;
+    background-color: #000066;
+    font-size: 14px;
+}

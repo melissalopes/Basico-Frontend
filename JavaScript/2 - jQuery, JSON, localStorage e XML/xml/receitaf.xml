@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<receita_federal>
+
+    <contribuinte>
+        <cpf> CPF: 122.211.121-11</cpf>
+        <rg> RG: 14.411.141-4</rg>
+        <nome>Maria do Carmo</nome>
+        <data_nasc>10/03/1980</data_nasc>
+        <endereco>
+           <logradouro>Logradouro: Chacara</logradouro> 
+           <numero>Nº 47</numero>
+           <bairro> Bairro: Jardim São Vicente</bairro>
+           <cep> CEP: 12442-111</cep>
+           <cidade> Cidade: São Paulo</cidade>
+           <estado> São Paulo</estado>
+        </endereco>
+        <contato>
+           <telefone>Tel: (11) 1111-1111</telefone>
+           <celular>Cel: (11) 22222-2222</celular>
+           <email>E-mail: mmaria@hotmail.com</email>
+        </contato>
+        <renda>Renda: R$ 2.000,00</renda>
+        <foto>https://robohash.org/siteosdoloribus.jpg?size=50x50&amp;set=set1</foto>
+        <conta_corrente>
+           <banco> Banco: Bradesco</banco>
+           <agencia>Agência: 2222-2</agencia>
+           <numero_conta>Nº conta: 111111-1</numero_conta>
+        </conta_corrente>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf> CPF: 992.999.999-99</cpf>
+        <rg>  RG: 94.499.949-4</rg>
+        <nome>Pedro José</nome>
+        <data_nasc>29/07/1990</data_nasc>
+        <endereco>
+           <logradouro>Conjunto</logradouro>
+           <numero>Nº 190</numero>
+           <bairro>Bairro: Conjunto Residencial Prestes Maia</bairro>
+           <cep>CEP: 12399-134</cep>
+           <cidade>Cidade: São Paulo</cidade>
+           <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+           <telefone>Tel: (11) 3939-9999</telefone>
+           <celular>Cel: (11) 93939-3333</celular>
+           <email>E-mail: pedro@hotmail.com</email>
+        </contato>
+        <renda>Renda: R$ 5.000,00</renda>
+        <foto>https://robohash.org/suntillummagnam.jpg?size=50x50&amp;set=set1</foto>
+        <conta_corrente>
+           <banco>Banco: Bradesco</banco>
+           <agencia>Agência: 9531-2</agencia>
+           <numero_conta>Nº conta: 123456-1</numero_conta>
+        </conta_corrente>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>CPF: 456.654.465-55</cpf>
+        <rg>RG: 55.666.333-4</rg>
+        <nome>Anthony Felipe</nome>
+        <data_nasc>09/01/1973</data_nasc>
+        <endereco>
+           <logradouro>Alameda</logradouro>
+           <numero>Nº 555</numero>
+           <bairro>Bairro: Parque das Flores</bairro>
+           <cep>CEP: 55555-444</cep>
+           <cidade>Cidade: Macapá</cidade>
+           <estado>Amapá</estado>
+        </endereco>
+        <contato>
+           <telefone>Tel: (96) 4865-2532</telefone>
+           <celular>Cel: (96) 55555-5555</celular>
+           <email>E-mail: thony.contato@hotmail.com</email>
+        </contato>
+        <renda>Renda: R$ 3.950,42</renda>
+        <foto>https://robohash.org/velenimaccusantium.bmp?size=50x50&amp;set=set1</foto>
+        <conta_corrente>
+           <banco>Banco: Santander</banco>
+           <agencia>Agência: 5923-4</agencia>
+           <numero_conta>Nº conta: 098765-5</numero_conta>
+        </conta_corrente>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>CPF: 673.211.345-11</cpf>
+        <rg>RG: 66.777.888-4</rg>
+        <nome>Luiza Jordana Silva</nome>
+        <data_nasc>18/08/1989</data_nasc>
+        <endereco>
+           <logradouro>Campo</logradouro>
+           <numero>Nº 1010</numero>
+           <bairro>Bairro: Jardim Rizzo</bairro>
+           <cep>CEP: 10101-999</cep>
+           <cidade>Cidade: São Fidélis</cidade>
+           <estado>Rio de Janeiro</estado>
+        </endereco>
+        <contato>
+           <telefone>Tel: (21) 1010-1010</telefone>
+           <celular>Cel: (21) 61616-6161</celular>
+           <email>E-mail: luizajordanasilva@gmail.com</email>
+        </contato>
+        <renda>Renda: R$ 12.589,11</renda>
+        <foto>https://robohash.org/assumendatemporaquos.bmp?size=50x50&amp;set=set1</foto>
+        <conta_corrente>
+           <banco>Banco: Banco do Brasil</banco>
+           <agencia>Agência: 6666-6</agencia>
+           <numero_conta>Nº conta: 101010-6</numero_conta>
+        </conta_corrente>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>CPF: 247.987.222-77</cpf>
+        <rg>RG: 44.444.444-4</rg>
+        <nome>Julie Antonine</nome>
+        <data_nasc>04/04/1994</data_nasc>
+        <endereco>
+           <logradouro>Area Especial</logradouro>
+           <numero>Nº 444</numero>
+           <bairro>Bairro: Vila Ana Rosa</bairro>
+           <cep>CEP: 12442-111</cep>
+           <cidade>Cidade: Coluna</cidade>
+           <estado>Minas Gerais</estado>
+        </endereco>
+        <contato>
+           <telefone>Tel: (31) 2204-6843</telefone>
+           <celular>Cel: (31) 58345-4900</celular>
+           <email>E-mail: antoanto@outlook.com</email>
+        </contato>
+        <renda>Renda: R$ 3.999,00</renda>
+        <foto>https://robohash.org/fugamollitiased.png?size=50x50&amp;set=set1</foto>
+        <conta_corrente>
+           <banco>Banco: Itaú</banco>
+           <agencia>Agência: 4444-2</agencia>
+           <numero_conta>Nº conta: 989898-4</numero_conta>
+        </conta_corrente>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>CPF: 000.000.000-00</cpf>
+        <rg>RG: 00.000.000-0</rg>
+        <nome>Levi Vieira</nome>
+        <data_nasc>00/00/0000</data_nasc>
+        <endereco>
+           <logradouro>Campo</logradouro>
+           <numero>Nº 000</numero>
+           <bairro>Bairro: Vila Ana Rosa</bairro>
+           <cep>CEP: 00000-000</cep>
+           <cidade>Cidade: Coluna</cidade>
+           <estado>Minas Gerais</estado>
+        </endereco>
+        <contato>
+           <telefone>Tel: (31) 0000-0000</telefone>
+           <celular>Cel: (31) 00000-0000</celular>
+           <email>E-mail: levi@outlook.com</email>
+        </contato>
+        <renda>Renda: R$ 60.999,00</renda>
+        <foto>https://robohash.org/fugamollitiased.png?size=50x50&amp;set=set1</foto>
+        <conta_corrente>
+           <banco>Banco: Itaú</banco>
+           <agencia>Agência: 0000-0</agencia>
+           <numero_conta>Nº conta: 000000-0</numero_conta>
+        </conta_corrente>
+    </contribuinte>
+    
+</receita_federal>

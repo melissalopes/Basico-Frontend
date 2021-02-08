@@ -1,0 +1,125 @@
+/*Média de pesos*/
+.medpesos{
+    background-color: rgba(115, 255, 0, 0.253);
+    border: rgba(0, 139, 139, 0.493) solid 4px;
+    border-radius: 20px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    height: 50px;
+    line-height: 10px;
+}
+
+/*Cards do botão Calcular*/
+#maiorpeso{
+    margin-left: 365px;
+}
+
+#maiorsalario, #maiorpeso{   
+    font-family: Arial;
+    display: inline-block;
+}
+
+.maiorsalario, .maiorpeso{ 
+    border-radius: 20px;
+    padding: 10px;
+    width: 250px;
+    height: 450px;
+    margin: 10px;
+    border: white 3px solid;
+    text-align: center;
+}
+
+/*Cards do botão Exibir*/
+#cards{
+    font-family: Arial;
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.card{
+    display: inline-block;
+    margin: 10px;
+    margin-left: 75px;
+    width: 500px;
+    height: 250px;
+    border: white 3px solid;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px #aaaaaa;
+    padding: 20px;
+}
+
+/*Cores dos gêneros*/
+.feminino{
+    background-color: rgba(132, 0, 255, 0.287);
+    border-color: rgba(59, 31, 126, 0.452);
+}
+
+.masculino{
+    background-color: rgba(0, 255, 242, 0.438);
+    border-color: rgba(60, 74, 134, 0.541);
+}
+
+/**/
+img{
+    background-color: white;
+    border-radius: 20px;
+    height: 250px;
+    width: 250px;
+    margin-bottom: -20px;
+}
+
+.info{
+    display: inline-block;
+    width: 240px;
+    height: 250px;
+}
+
+.span{
+    display: inline-block;
+    width: 240px;
+    height: 50px ;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+}
+
+.meio{
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    width: 240px;
+    height: 80px;
+}
+
+.salario{
+    display: inline-block;
+    border-top: black 1px solid;
+    width: 240px;
+    height: 50px ;
+    text-align: center;
+    line-height: 50px;
+}
+
+.profissao{
+    display: inline-block;
+    border-top: black 1px solid;
+    width: 240px;
+    height: 50px;
+    text-align: center;
+    line-height: 80px;
+}
+
+/*Estilo do botão*/
+input{
+    width: 100px;
+    height: 40px;
+    background-color: rgba(115, 255, 0, 0.253);
+    border: rgba(0, 139, 139, 0.493) solid 3px;
+    border-radius: 10px;
+    font-weight: bold;
+    color:  rgba(0, 46, 46, 0.589);
+}

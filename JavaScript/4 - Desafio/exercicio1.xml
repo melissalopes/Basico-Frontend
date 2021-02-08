@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<caminhao>
+
+  <informacoes>
+      <codigo> 212 </codigo>
+      <placa> 59C-A1D8 </placa>
+      <dia_saida> 12/11/2019 </dia_saida>
+      <dia_retorno> 05/08/2020 </dia_retorno>
+      <hora_saida> 12:03 </hora_saida>
+      <hora_retorno> 18:00 </hora_retorno>
+  </informacoes>
+
+  <informacoes>
+      <codigo> 124 </codigo> 
+      <placa> D39-56DB </placa>
+      <dia_saida> 14/08/2020 </dia_saida>
+      <dia_retorno> 17/08/2020 </dia_retorno>
+      <hora_saida> 13:15 </hora_saida>
+      <hora_retorno> 22:12 </hora_retorno>
+  </informacoes>
+
+  <informacoes>
+      <codigo> 110 </codigo>
+      <placa> 7CF-8179 </placa>
+      <dia_saida> 29/09/2020 </dia_saida>
+      <dia_retorno> 14/09/2020 </dia_retorno>
+      <hora_saida> 01:20 </hora_saida>
+      <hora_retorno> 10:40 </hora_retorno>
+  </informacoes>
+
+  <informacoes>
+     <codigo> 404 </codigo>
+     <placa> 067-BD99 </placa>
+     <dia_saida> 06/04/2020 </dia_saida>
+     <dia_retorno> 02/07/2020 </dia_retorno>
+     <hora_saida> 14:25 </hora_saida>
+     <hora_retorno> 16:33 </hora_retorno>
+  </informacoes>
+
+  <informacoes>
+     <codigo> 363 </codigo>
+     <placa> 2B3-DDCA </placa>
+     <dia_saida> 28/04/2020 </dia_saida>
+     <dia_retorno> 24/07/2020 </dia_retorno>
+     <hora_saida> 12:00 </hora_saida>
+     <hora_retorno> 09:00 </hora_retorno>
+  </informacoes>
+
+  <informacoes>
+     <codigo> 050 </codigo>
+     <placa> 001-61A8 </placa>
+     <dia_saida> 22/10/2020 </dia_saida>
+     <dia_retorno> 01/11/2019 </dia_retorno>
+     <hora_saida> 07:55 </hora_saida>
+     <hora_retorno> 15:29 </hora_retorno>
+  </informacoes>
+
+</caminhao>

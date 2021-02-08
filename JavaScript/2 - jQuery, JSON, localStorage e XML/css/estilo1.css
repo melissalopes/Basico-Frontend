@@ -1,0 +1,29 @@
+body{
+    font-family: Arial;
+}
+
+form{
+    width: 200px;
+    color: black;
+}
+
+button{
+    width: 85px;
+}
+
+.aprovado{
+    color: #1e90ff;
+}
+
+.reprovado{
+    color: #b22222;
+}
+
+.exame{
+    color: #ff8c00;
+}
+
+table{
+    border: solid black 1px;
+    text-align: center;
+}

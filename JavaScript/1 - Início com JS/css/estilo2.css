@@ -1,0 +1,13 @@
+div{
+    font-family: Arial;
+    text-align: center;
+    padding: 10px;
+}
+
+.verde{
+    background-color: rgb(104, 245, 104);
+}
+
+.amarelo{
+    background-color: yellow;
+}
